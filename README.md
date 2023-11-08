@@ -34,7 +34,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" background="black" > 
+<p align="left" style="display: flex; gap: 10;" > 
  <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:384/1*GftqhTAzDylbY-CISlvkvw.png" alt="appwrite" width="40" height="40"/> </a>
  
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" alt="firebase" width="40" height="40"/> </a> 

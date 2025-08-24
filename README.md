@@ -1,69 +1,28 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Hitesh Saini</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+# 💫 About Me:
+👋 Hi, I’m Hitesh Saini<br><br>💻 Full-Stack Developer (MERN & Next.js) | Passionate about scalable apps, modern UIs & performance-driven backends.<br>I love turning ideas into production-ready solutions with clean, optimized, and secure code.<br><br>🚀 Currently working on enterprise projects in healthcare, logistics & education, and building my own React frontend library (hs-library) published on npm.<br><br>⚡ I enjoy exploring 3D web experiences (Three.js, R3F), optimizing backend systems, and mentoring developers to grow as a team. <br><br>🔧 Tech Highlights<br><br>Frontend: React.js, Next.js, TailwindCSS, GSAP, Three.js, R3F<br><br>Backend: Node.js, Express, GraphQL, gRPC, REST APIs<br><br>Databases: MongoDB, PostgreSQL, MySQL, Redis<br><br>DevOps & Tools: Docker, AWS, Vercel, GitHub Actions<br><br>📌 What I’m focusing on<br><br>Building scalable full-stack applications<br><br>Publishing open-source tools & libraries<br><br>Enhancing skills in system design & performance optimization
 
 
-- 🔭 I’m currently working on **CollegeID**
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/https://bsky.app/profile/hiteshsaini09.bsky.social) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hiteshsaini__09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hitesh-saini09) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hiteshsaini__09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hitesh9694saini@gmail.com) 
 
-- 🌱 I’m currently learning **Backend**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![RollupJS](https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Hitesh Saini&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Hitesh Saini&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh Saini&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 👨‍💻 All of my projects are available at [hitesh-folio.vercel.app](hitesh-folio.vercel.app)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Hitesh Saini&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- 💬 Ask me about **ReactJS, Mern, Java**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-- 📫 How to reach me **hitesh9694saini@gmail.com**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Hitesh Saini&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
 
-- 📄 Know about my experiences [https://shorturl.at/gAEQ0](https://shorturl.at/gAEQ0)
+---
+[![](https://visitcount.itsvg.in/api?id=Hitesh Saini&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- ⚡ Fun fact **I think I am creative**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hiteshsaini__09" target="blank"><img align="center" src="https://www.basicthinking.com/wp-content/uploads/2023/07/twitter-logo-x.jpg" alt="hiteshsaini__09" height="30" width="40" /></a>
- 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hitesh-saini09/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="https://www.linkedin.com/in/hitesh-saini09/" height="30" width="40" /></a>
- 
-<a href="https://instagram.com/https://www.instagram.com/hiteshsaini__09" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" alt="https://www.instagram.com/hiteshsaini__09" height="30" width="40" /></a>
- 
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/hitesh9694saini" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="https://www.hackerrank.com/profile/hitesh9694saini" height="30" width="40" /></a>
-
-<a href="https://www.leetcode.com/https://leetcode.com/hitesh9694saini/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPRLaRkA8AZncIr6f9udGwrIK8xB5qtxGsMg&usqp=CAU" alt="https://leetcode.com/hitesh9694saini/" height="30" width="40" /></a>
-
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/hitesh9694saini" target="blank"><img align="center" src="https://www.careerguide.com/career/wp-content/uploads/2023/09/GFG-placements.jpeg" alt="https://auth.geeksforgeeks.org/user/hitesh9694saini" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: flex; gap: 10;" > 
- <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:384/1*GftqhTAzDylbY-CISlvkvw.png" alt="appwrite" width="40" height="40"/> </a>
- 
- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" alt="firebase" width="40" height="40"/> </a> 
- 
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="css3" width="40" height="40"/> </a> 
- 
- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGYAW93ATCAVRha7vzX434eVJRJmXG7ZzXzA&usqp=CAU" alt="express" width="40" height="40"/> </a>
- 
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWbNfJ7Ms0KYS7WjI4X526TYZXRl4GDt9u-g&usqp=CAU" alt="figma" width="40" height="40"/> </a> 
- 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://git-scm.com/images/logo@2x.png" alt="git" width="40" height="40"/> </a> 
- 
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" alt="html5" width="40" height="40"/> </a>
- 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" alt="javascript" width="40" height="40"/> </a> 
- 
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png" alt="mongodb" width="40" height="40"/> </a>
- 
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.linuxuntu.com/wp-content/uploads/2023/04/MySQL-Logo.jpg" alt="mysql" width="40" height="40"/> </a> 
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon-thumbnail.png" alt="nodejs" width="40" height="40"/> </a> 
- 
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/react-1-logo.png" alt="react" width="40" height="40"/> </a>
- 
- <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:500/1*tOI6UC5EaS2fPItCesI-AQ.png" alt="redux" width="40" height="40"/> </a> 
- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" alt="tailwind" width="40" height="40"/> </a>
- </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hitesh09&show_icons=true&locale=en&layout=compact" alt="hitesh09" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hitesh09&show_icons=true&locale=en" alt="hitesh09" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hitesh09&" alt="hitesh09" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
